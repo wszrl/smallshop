@@ -1,0 +1,12 @@
+*.log
+*.temp
+*.war
+*.class
+*.ear
+target/
+.settings/
+.classpath
+.idea/
+*.ipr
+*.tmp
+/idea/
